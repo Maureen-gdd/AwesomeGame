@@ -1,0 +1,3 @@
+/home/smooshiie/Documents/AwesomeGame/build/CMakeFiles/Cpp_SDL_Program.dir
+/home/smooshiie/Documents/AwesomeGame/build/CMakeFiles/edit_cache.dir
+/home/smooshiie/Documents/AwesomeGame/build/CMakeFiles/rebuild_cache.dir
